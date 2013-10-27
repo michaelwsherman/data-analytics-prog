@@ -8,3 +8,5 @@ log-analysis takes an input of times, webpages, and users, and outputs the pages
 However, part of the assignment was to just do this with arrays. And the code is somewhat sloppy, I have not cleaned it up. I do not think this represents my best work.
 
 Part of the code (mostly the framework) was written by Professor Aziz, but the meat of the methods is my (sloppy) work.
+
+The tests were written by Professor Aziz, and give an idea of how the program works.
