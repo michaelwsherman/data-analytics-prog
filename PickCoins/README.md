@@ -15,6 +15,6 @@ I am not especially proud of this solution, but it works. However, there are asp
 
 The reason there are two separate caches is that this made the program run faster.
 
-I think there is a better way to do the caching than a HashMap, but I haven't entirely put my finger on it. 
+There is a better way to do the caching than a HashMap, certainly.
 
 If I had some time, I'd clean this code up a bit. I like my solution, especially because it tells you exactly how both players do, but this code could use a polish
